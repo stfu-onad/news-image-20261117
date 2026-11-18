@@ -16,6 +16,19 @@ The three photo panels are AI-rendered illustrations of the reported
 events; all headlines and captions are drawn in crisp type so the page
 reads at any size.
 
+## Sources
+
+The headlines on the front page were drawn from the morning news
+round-ups and wire coverage of Tuesday, 17 November 2026: the daily
+early-edition briefing from Just Security and the daily brief from
+Level Headlines, cross-checked against reporting from Reuters and the
+BBC, plus the day's briefing from Zark News. The Kerch Bridge strike
+and the retaliatory hits on Kyiv bridges, the mine strikes on tankers
+in the Strait of Hormuz, the ASEAN summit in Manila, and the business
+and technology items in the "Also Today" strip all come from that
+morning's coverage; the three photo panels are AI-rendered
+illustrations of the reported events, not photographs.
+
 ## Run it
 
 ```sh
